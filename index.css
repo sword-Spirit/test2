@@ -8,7 +8,7 @@
    src: url('fonts/NotoSansTC-Light.otf');
 }
 
-p {
+* {
    font-family: '1';
 }
 
