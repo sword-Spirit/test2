@@ -1,14 +1,14 @@
 @font-face {
    font-family: '1';
-   src: url('NotoSansTC-Medium.otf');
+   src: url('fonts/NotoSansTC-Medium.otf');
 }
 
 @font-face {
    font-family: '2';
-   src: url('NotoSansTC-Black.otf');
+   src: url('fonts/NotoSansTC-Black.otf');
 }
 
 * {
-   font-family: '2';
+   font-family: '1';
 }
 
