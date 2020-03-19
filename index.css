@@ -5,10 +5,10 @@
 
 @font-face {
    font-family: '2';
-   src: url('fonts/NotoSansTC-Black.otf');
+   src: url('fonts/NotoSansTC-Light.otf');
 }
 
 * {
-   font-family: '1';
+   font-family: '2';
 }
 
