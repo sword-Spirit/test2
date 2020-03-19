@@ -1,3 +1,14 @@
-body{font-family:微軟正黑體!important;}
+@font-face {
+   font-family: '1';
+   src: url(NotoSansTC-Medium.otf);
+}
 
+@font-face {
+   font-family: '2';
+   src: url(NotoSansTC-Black.otf);
+}
+
+* {
+   font-family: '2';
+}
 
